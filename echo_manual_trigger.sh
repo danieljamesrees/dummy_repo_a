@@ -10,4 +10,4 @@ git config user.name "Dummy"
 git config user.email "dummy@ci"
 git add README.md
 git commit -m "Update date."
-exit ((return_code))
+exit $return_code
